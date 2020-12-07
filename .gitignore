@@ -1,0 +1,12 @@
+.DS_Store
+coc
+configstore
+fcitx5
+fish/HOMEBREW_GITHUB_API_TOKEN
+fish/config.fish
+ibus
+nvim
+vifm/scripts
+vifm/vifm-help.txt
+vifm/vifminfo.json
+vifm/vifmrc
