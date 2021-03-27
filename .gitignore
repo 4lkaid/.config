@@ -5,6 +5,7 @@ fcitx5
 fish/HOMEBREW_GITHUB_API_TOKEN
 fish/config.fish
 ibus
+iterm2
 neofetch
 nvim
 vifm/scripts
