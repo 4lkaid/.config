@@ -5,4 +5,4 @@ set -gx GOPATH $HOME/go
 set -gx PATH $PATH /usr/local/sbin $GOPATH/bin
 set -gx FZF_DEFAULT_COMMAND 'ag -f --hidden --ignore .git -g ""'
 set -gx HOMEBREW_GITHUB_API_TOKEN (cat ~/.config/fish/HOMEBREW_GITHUB_API_TOKEN)
-set -gx HOMEBREW_BOTTLE_DOMAIN https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
+set -gx HOMEBREW_BOTTLE_DOMAIN https://mirrors.ustc.edu.cn/homebrew-bottles
